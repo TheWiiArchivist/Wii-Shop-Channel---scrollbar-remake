@@ -24,6 +24,7 @@ background: linear-gradient(0deg, rgba(212,244,252,1) 0%, rgba(232,247,252,1) 8%
     ::-webkit-scrollbar-button:single-button {
     background-image: url("/wiishopscrollbar/arrows/arrowup.png");
     border:0px;
+    border-left:1px solid #34BEED;
     display: block;
     border-style: solid;
     height: 52px;
@@ -45,6 +46,7 @@ background: linear-gradient(0deg, rgba(212,244,252,1) 0%, rgba(232,247,252,1) 8%
     ::-webkit-scrollbar-button:single-button:vertical:increment {
     background-image: url("/wiishopscrollbar/arrows/arrowdown.png");
     border:0px;
+    border-left:1px solid #34BEED;
     display: block;
     border-style: solid;
     height: 52px;
