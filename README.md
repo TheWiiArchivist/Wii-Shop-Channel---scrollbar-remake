@@ -3,8 +3,10 @@ Remake of the Wii Shop scrollbar in HTML 5!
 <br>
 
 # Use on YOUR website!
-It's simple, just download the wiishopscrollbar folder and do this in any html that u need it in:
+It's simple, just download the wiishopscrollbar folder and put this in any html page that u need it in:
+<br>
 ``<link rel="stylesheet" href="/wiishopscrollbar/wiiscrollbar.css">``
+<br>
 ( change the path of stuff if needed )
 <br>
 
