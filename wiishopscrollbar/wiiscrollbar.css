@@ -17,6 +17,13 @@
       background: rgb(212,244,252);
 background: linear-gradient(0deg, rgba(212,244,252,1) 0%, rgba(232,247,252,1) 8%, rgba(233,246,252,1) 27%, rgba(233,246,252,1) 54%, rgba(232,246,249,1) 100%);
     }
+
+    ::-webkit-scrollbar-thumb:hover {
+      border-left:1px solid #34BEED;
+      border-right:1px solid #34BEED;
+      background: rgb(198,238,255);
+      background: linear-gradient(0deg, rgba(198,238,255,1) 0%, rgba(226,248,255,1) 8%, rgba(219,243,255,1) 27%, rgba(233,246,252,1) 54%, rgba(232,246,249,1) 100%);
+    }
     
     
     
