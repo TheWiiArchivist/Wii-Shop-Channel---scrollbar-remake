@@ -1,8 +1,8 @@
 # Wii-Shop-Channel---scrollbar-remake
 Remake of the Wii Shop scrollbar in HTML 5!
- --   credit to https://stackoverflow.com/a/52361343 for the arrow buttons tutorial
- --   credit to https://idkwh.ct8.pl/ (idkwhereisthisname) for the scrollbar img rips. 
- --  credit to https://nintendo.com  for the images i guessss.... 
+  - credit to https://stackoverflow.com/a/52361343 for the arrow buttons tutorial
+  - credit to https://idkwh.ct8.pl/ (idkwhereisthisname) for the scrollbar img rips. 
+  - credit to https://nintendo.com  for the images i guessss.... 
  
 <br>
 # Use on YOUR website!
