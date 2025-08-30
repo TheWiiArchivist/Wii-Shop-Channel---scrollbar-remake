@@ -10,6 +10,8 @@ It's simple, just download the wiishopscrollbar folder and put this in any html 
 <br>
 ``<link rel="stylesheet" href="/wiishopscrollbar/wiiscrollbar.css">``
 <br>
+(or, use https://thewiiarchivist.github.io/Wii-Shop-Channel---scrollbar-remake/) only for my sites tho as i dont think it would allow that due to CORS)
+<br>
 ( change the path of stuff if needed )
 <br>
 
